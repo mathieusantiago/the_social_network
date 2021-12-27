@@ -1,11 +1,6 @@
 ## Project the social network BACKEND
 ==========================
 
-Hello welcome to the back-end of the social network to start the server node js <br>
-administering the application follow the next step<br>
-
-
-this project comes from a tutorial find on youtube here is the link(See [youtube tuto](https://www.youtube.com/watch?v=SUPDFHuvhRc&ab_channel=FromScratch-D%C3%A9veloppementWeb)).<br>
 
 ## prerequisite <br>
 
